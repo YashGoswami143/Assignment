@@ -1,0 +1,400 @@
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              7               4                2              6
+ 2              1               8                0              8
+ 3              7               12               16             28
+ 4              1               14               34             48
+ 5              6               10               7              17
+Average waiting time = 11.8
+Average turn around time = 21.4
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              5               1                0              1
+ 2              1               12               24             36
+ 3              9               5                3              8
+ 4              0               11               1              12
+ 5              8               8                9              17
+Average waiting time = 7.4
+Average turn around time = 14.8
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              0               2                0              2
+ 2              7               10               6              16
+ 3              7               10               16             26
+ 4              2               11               0              11
+ 5              7               14               26             40
+Average waiting time = 9.6
+Average turn around time = 19.0
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              0               8                0              8
+ 2              0               9                30             39
+ 3              7               6                1              7
+ 4              7               8                7              15
+ 5              8               8                14             22
+Average waiting time = 10.4
+Average turn around time = 18.2
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              8               5                0              5
+ 2              7               11               12             23
+ 3              0               14               5              19
+ 4              5               14               38             52
+ 5              4               13               26             39
+Average waiting time = 16.2
+Average turn around time = 27.6
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              0               9                0              9
+ 2              4               11               18             29
+ 3              4               14               29             43
+ 4              5               5                4              9
+ 5              5               8                9              17
+Average waiting time = 12.0
+Average turn around time = 21.4
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              7               4                4              8
+ 2              7               9                14             23
+ 3              5               6                0              6
+ 4              8               6                7              13
+ 5              7               11               23             34
+Average waiting time = 9.6
+Average turn around time = 16.8
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              0               4                0              4
+ 2              6               10               18             28
+ 3              8               14               26             40
+ 4              6               9                9              18
+ 5              0               11               4              15
+Average waiting time = 11.4
+Average turn around time = 21.0
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              1               4                0              4
+ 2              6               10               9              19
+ 3              4               14               31             45
+ 4              2               10               3              13
+ 5              3               10               22             32
+Average waiting time = 13.0
+Average turn around time = 22.6
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              7               1                1              2
+ 2              3               10               6              16
+ 3              1               7                0              7
+ 4              5               13               14             27
+ 5              2               13               30             43
+Average waiting time = 10.2
+Average turn around time = 19.0
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              4               8                15             23
+ 2              7               5                1              6
+ 3              6               6                7              13
+ 4              2               6                0              6
+ 5              1               13               25             38
+Average waiting time = 9.6
+Average turn around time = 17.2
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              0               3                0              3
+ 2              8               9                3              12
+ 3              9               10               11             21
+ 4              2               8                1              9
+ 5              3               10               27             37
+Average waiting time = 8.4
+Average turn around time = 16.4
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              1               1                0              1
+ 2              5               6                0              6
+ 3              3               10               6              16
+ 4              3               14               28             42
+ 5              7               12               12             24
+Average waiting time = 9.2
+Average turn around time = 17.8
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              7               1                0              1
+ 2              8               10               23             33
+ 3              6               7                1              8
+ 4              8               8                6              14
+ 5              7               9                15             24
+Average waiting time = 9.0
+Average turn around time = 16.0
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              3               7                10             17
+ 2              6               8                14             22
+ 3              8               5                0              5
+ 4              1               7                0              7
+ 5              0               10               27             37
+Average waiting time = 10.2
+Average turn around time = 17.6
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              3               1                0              1
+ 2              2               6                12             18
+ 3              1               7                1              8
+ 4              6               6                14             20
+ 5              3               5                6              11
+Average waiting time = 6.6
+Average turn around time = 11.6
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              5               7                3              10
+ 2              2               7                13             20
+ 3              1               7                0              7
+ 4              9               14               24             38
+ 5              4               11               18             29
+Average waiting time = 11.6
+Average turn around time = 20.8
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              4               6                0              6
+ 2              8               14               40             54
+ 3              5               13               17             30
+ 4              5               13               30             43
+ 5              8               12               2              14
+Average waiting time = 17.8
+Average turn around time = 29.4
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              1               7                0              7
+ 2              9               11               9              20
+ 3              5               12               35             47
+ 4              4               11               25             36
+ 5              6               10               2              12
+Average waiting time = 14.2
+Average turn around time = 24.4
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              3               7                12             19
+ 2              3               11               26             37
+ 3              4               5                0              5
+ 4              1               9                5              14
+ 5              7               7                15             22
+Average waiting time = 11.6
+Average turn around time = 19.4
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              6               7                5              12
+ 2              7               5                0              5
+ 3              7               6                11             17
+ 4              9               14               25             39
+ 5              9               10               15             25
+Average waiting time = 11.2
+Average turn around time = 19.6
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              4               7                5              12
+ 2              5               8                11             19
+ 3              6               9                18             27
+ 4              2               7                0              7
+ 5              4               11               29             40
+Average waiting time = 12.6
+Average turn around time = 21.0
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              0               5                0              5
+ 2              6               14               9              23
+ 3              7               5                3              8
+ 4              3               5                2              7
+ 5              5               14               24             38
+Average waiting time = 7.6
+Average turn around time = 16.2
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              5               8                0              8
+ 2              4               11               17             28
+ 3              7               9                6              15
+ 4              6               13               36             49
+ 5              8               10               24             34
+Average waiting time = 16.6
+Average turn around time = 26.8
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              2               3                0              3
+ 2              3               5                2              7
+ 3              3               12               12             24
+ 4              3               5                7              12
+ 5              3               14               24             38
+Average waiting time = 9.0
+Average turn around time = 16.8
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              2               8                0              8
+ 2              4               11               13             24
+ 3              7               7                3              10
+ 4              7               14               33             47
+ 5              3               12               25             37
+Average waiting time = 14.8
+Average turn around time = 25.2
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              2               9                11             20
+ 2              1               6                6              12
+ 3              4               9                18             27
+ 4              5               9                26             35
+ 5              0               7                0              7
+Average waiting time = 12.2
+Average turn around time = 20.2
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              7               2                0              2
+ 2              1               5                0              5
+ 3              3               12               11             23
+ 4              3               12               23             35
+ 5              5               6                3              9
+Average waiting time = 7.4
+Average turn around time = 14.8
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              5               3                0              3
+ 2              6               8                2              10
+ 3              6               13               28             41
+ 4              0               14               11             25
+ 5              8               9                17             26
+Average waiting time = 11.6
+Average turn around time = 21.0
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              9               9                1              10
+ 2              1               14               42             56
+ 3              0               10               0              10
+ 4              5               11               14             25
+ 5              1               13               29             42
+Average waiting time = 17.2
+Average turn around time = 28.6
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              4               2                0              2
+ 2              9               14               23             37
+ 3              2               12               18             30
+ 4              5               8                7              15
+ 5              1               9                2              11
+Average waiting time = 10.0
+Average turn around time = 19.0
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              5               4                4              8
+ 2              4               9                14             23
+ 3              1               8                0              8
+ 4              5               5                8              13
+ 5              2               9                25             34
+Average waiting time = 10.2
+Average turn around time = 17.2
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              5               5                0              5
+ 2              2               12               33             45
+ 3              2               10               23             33
+ 4              9               8                8              16
+ 5              1               11               5              16
+Average waiting time = 13.8
+Average turn around time = 23.0
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              7               3                2              5
+ 2              7               7                5              12
+ 3              4               5                0              5
+ 4              9               12               19             31
+ 5              3               10               15             25
+Average waiting time = 8.2
+Average turn around time = 15.6
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              1               1                0              1
+ 2              4               13               4              17
+ 3              2               13               19             32
+ 4              9               14               25             39
+ 5              1               6                1              7
+Average waiting time = 9.8
+Average turn around time = 19.2
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              2               1                0              1
+ 2              7               9                6              15
+ 3              1               11               1              12
+ 4              2               12               20             32
+ 5              5               13               29             42
+Average waiting time = 11.2
+Average turn around time = 20.4
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              8               1                0              1
+ 2              3               12               22             34
+ 3              0               13               1              14
+ 4              4               12               33             45
+ 5              7               11               7              18
+Average waiting time = 12.6
+Average turn around time = 22.4
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              7               9                18             27
+ 2              3               8                0              8
+ 3              5               6                6              12
+ 4              3               8                14             22
+ 5              0               12               31             43
+Average waiting time = 13.8
+Average turn around time = 22.4
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              1               8                7              15
+ 2              0               9                16             25
+ 3              0               12               35             47
+ 4              2               10               23             33
+ 5              0               8                0              8
+Average waiting time = 16.2
+Average turn around time = 25.6
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              0               3                0              3
+ 2              6               10               12             22
+ 3              8               5                5              10
+ 4              4               10               24             34
+ 5              3               10               0              10
+Average waiting time = 8.2
+Average turn around time = 15.8
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              4               10               13             23
+ 2              4               5                0              5
+ 3              4               10               23             33
+ 4              4               8                5              13
+ 5              8               11               29             40
+Average waiting time = 14.0
+Average turn around time = 22.8
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              9               1                0              1
+ 2              8               10               8              18
+ 3              2               13               1              14
+ 4              6               14               31             45
+ 5              4               11               22             33
+Average waiting time = 12.4
+Average turn around time = 22.2
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              6               6                4              10
+ 2              1               9                0              9
+ 3              5               14               32             46
+ 4              7               12               18             30
+ 5              4               9                12             21
+Average waiting time = 13.2
+Average turn around time = 23.2
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              7               3                0              3
+ 2              7               9                8              17
+ 3              3               9                3              12
+ 4              8               12               27             39
+ 5              5               11               19             30
+Average waiting time = 11.4
+Average turn around time = 20.2
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              7               8                14             22
+ 2              2               9                0              9
+ 3              7               5                4              9
+ 4              6               5                10             15
+ 5              7               11               22             33
+Average waiting time = 10.0
+Average turn around time = 17.6
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              5               8                7              15
+ 2              4               8                0              8
+ 3              5               14               36             50
+ 4              3               10               16             26
+ 5              4               12               25             37
+Average waiting time = 16.8
+Average turn around time = 27.2
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              1               5                0              5
+ 2              4               12               9              21
+ 3              6               13               31             44
+ 4              7               12               18             30
+ 5              0               8                5              13
+Average waiting time = 12.6
+Average turn around time = 22.6
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              8               4                0              4
+ 2              5               10               4              14
+ 3              5               13               34             47
+ 4              5               10               14             24
+ 5              6               10               23             33
+Average waiting time = 15.0
+Average turn around time = 24.4
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              3               2                0              2
+ 2              3               10               8              18
+ 3              8               14               26             40
+ 4              7               13               14             27
+ 5              7               6                0              6
+Average waiting time = 9.6
+Average turn around time = 18.6
+Processes  Arival time   Burst Time      Waiting time      Turn around time
+ 1              5               4                0              4
+ 2              7               11               17             28
+ 3              7               5                2              7
+ 4              1               14               9              23
+ 5              9               14               26             40
+Average waiting time = 10.8
+Average turn around time = 20.4
